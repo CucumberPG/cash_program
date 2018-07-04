@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
-
+// Gae
 int main(void)
 {
     float f;
